@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+folium
+streamlit-folium
+pillow
+exifread
+exifread
+folium
+pillow
+streamlit
+streamlit-folium
+ultralytics
